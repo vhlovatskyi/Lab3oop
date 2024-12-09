@@ -1,0 +1,7 @@
+D:\cloud\code\uni\2 курс 1 сем\ООП\Lab3\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\cloud\code\uni\2 курс 1 сем\ООП\Lab3\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\cloud\code\uni\2 курс 1 сем\ООП\Lab3\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\cloud\code\uni\2 курс 1 сем\ООП\Lab3\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\cloud\code\uni\2 курс 1 сем\ООП\Lab3\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\cloud\code\uni\2 курс 1 сем\ООП\Lab3\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\cloud\code\uni\2 курс 1 сем\ООП\Lab3\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
